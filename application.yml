@@ -1,0 +1,2 @@
+auth:
+  keycloak-endpoint: 'http://localhost:8080'
