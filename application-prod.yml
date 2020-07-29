@@ -1,4 +1,4 @@
 auth:
   keycloak:
-    endpoint: 'http://localhost:8080'
+    endpoint: 'http://keycloak.xbot.local:8080'
     realm: 'xbot'
